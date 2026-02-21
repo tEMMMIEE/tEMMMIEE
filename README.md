@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://tenor.com/ru/view/lime-gh-gif-3373898375986576406" width="600"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://tenor.com/ru/view/lime-gh-gif-3373898375986576406](https://tenor.com/ru/view/lime-gh-gif-3373898375986576406)" width="600"/>
 </p>
