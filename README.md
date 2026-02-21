@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://anime.child-class.org/sites/default/files/2023-11/Tokyo%20Ghoul%20%282%29.gif](https://anime.child-class.org/sites/default/files/2023-11/Tokyo%20Ghoul%20%282%29.gif](https://anime.child-class.org/sites/default/files/2023-11/Tokyo%20Ghoul%20%282%29.gif)" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://tenor.com/ru/view/lime-gh-gif-3373898375986576406" width="600"/>
 </p>
